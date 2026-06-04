@@ -1,3 +1,4 @@
+<p align="center">MDNI</p>
 <p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
 
 <p align="center">OFTEN AFK, W2I</p>
