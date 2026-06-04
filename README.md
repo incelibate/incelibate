@@ -8,6 +8,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9b6dab&bar_color_cover=false">
   </a>
 </p>
-<img src="https://github.com/user-attachments/assets/8edf4397-bf4e-4503-958e-c7fc13674772" /> <img src="https://github.com/user-attachments/assets/0fe07a97-55cd-46ae-8640-f34d21abf113" /> <img width="250" height="141" alt="tumblr_904bdc7e67e932ac2e2975e7036e52fe_3fdf4da7_250" src="https://github.com/user-attachments/assets/eed325e0-5597-43bd-a602-8f4470278c5a" />
+
 
 
