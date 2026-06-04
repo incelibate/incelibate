@@ -1,3 +1,6 @@
+
+<p align="center"><img width="468" height="60" alt="ezgif-52bc6ee781705bab" src="https://github.com/user-attachments/assets/13bcea4c-e522-4863-9ee8-265a7a4f184d" /></p>
+
 <p align="center">MDNI</p>
 <p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
 
@@ -6,6 +9,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/bf1b60e6-9964-4952-8568-2742fb58eaef"
  />
 </p>
+
 
 
 <p align="center">
