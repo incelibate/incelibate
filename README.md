@@ -1,4 +1,4 @@
-<p align="center">RYDER  HE/IT</p>
+<p align="center">RYDER   HE / IT</p>
 
 <p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
 
