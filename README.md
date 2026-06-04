@@ -1,6 +1,8 @@
 <p alight="center">
 $\text{\color{#98639c}RYDER . HE/IT . UNIBUNNY ANGEL}$
-I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION.
+
+  <p alight="center">
+    I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION.
 OFTEN AFK, W2I
 
 <p align="center">
