@@ -1,8 +1,8 @@
-<p alight="center">RYDER  HE/IT</p>
+<p align="center">RYDER  HE/IT</p>
 
-<p alight="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
+<p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
 
-<p alight="center">OFTEN AFK, W2I</p>
+<p align="center">OFTEN AFK, W2I</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
