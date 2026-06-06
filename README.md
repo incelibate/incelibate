@@ -17,7 +17,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9b6dab&bar_color_cover=false">
   </a>
 </p>
-! [poop](https://github.com/user-attachments/assets/2ba4e81e-55fc-4cd3-a00f-11130ea41421)
+! [poop] (https://github.com/user-attachments/assets/2ba4e81e-55fc-4cd3-a00f-11130ea41421)
 
 
 
