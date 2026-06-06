@@ -3,7 +3,8 @@
 
 <p align="center">OFTEN AFK, W2I</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b5633195-025f-4b20-b671-e986e7b54cf8" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/3b53fd08-02a7-424e-a446-1fad26b4af15" />
+</p>
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46325509-9405-4808-9167-3cb1e27a778b" /></p>
