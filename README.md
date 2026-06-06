@@ -18,7 +18,28 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9b6dab&bar_color_cover=false">
   </a>
 </p>
-![](https://github.com/user-attachments/assets/5a13274e-5967-42ce-9066-d8c46ca7faa5)
+<img src="https://github.com/user-attachments/assets/8fdbeb34-bb5a-4524-8835-cc627c51f096" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/fba30a3f-1bdf-4d1b-9aa4-04346b777917" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/d8239123-4439-4e3a-8220-162e498fbe42" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/dd86179b-8e4f-4503-993b-ed2ea06ac8f2" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/175ed028-5ec8-4784-8858-be767e7d9bba" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/f8fb9036-c531-495b-aa96-7f7e004ab678" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/988cf2d8-9a89-405d-a143-50e73ce4d68d" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/b2d1f7f4-480c-4101-abc8-d79bf538207d" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/d457f222-a636-413f-b03f-f118096da4b6" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/edc9ae50-7b8d-497d-810f-401eabe2d166" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/4ee27c1c-8617-4ed7-892c-9eb24bdec7e1" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/adc4058b-9a34-47fa-b61d-80bca860d262" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/ca70c00d-d77c-4eb7-8568-db7d114df29d" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/1457dd02-0138-4bc0-808f-aca46cc60e11" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/6f9d8cee-b914-4b0c-98d0-72c070af67f8" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/8b20cbb5-17c1-414a-8c03-407539d9f3f7" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/845510e4-b49a-4d31-9998-0b25b7345b66" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/c15a802f-7397-404b-a866-ed9dbc7257bf" width="99" height="56"/>
+
+
+
+
 
 
 
