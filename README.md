@@ -3,8 +3,7 @@
 
 <p align="center">OFTEN AFK, W2I</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/3b53fd08-02a7-424e-a446-1fad26b4af15" />
-</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/99a12ce0-4630-4d28-a702-a9031b7f4fed" /></p>
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46325509-9405-4808-9167-3cb1e27a778b" /></p>
@@ -62,7 +61,7 @@
 <img src="https://github.com/user-attachments/assets/de086148-5afe-413e-9bcf-fa96777f9472" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/45b2b635-346b-4a1b-bbe9-57b1ef7c506c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/0452d6f5-dec7-4b40-95bc-1e0b261f7982" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/2fbc3831-8581-48cb-841e-75faae5c44bf" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/5e39ade8-ad28-4e84-b283-6056ba5edc3c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/24bce87b-0284-4357-8b2e-9d156e66425f" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/15acf122-70b4-4cff-9a87-d43ae05a968c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/d6fe9792-0049-4b5f-a38a-6bdc23bad1b3" width="99" height="56"/>
