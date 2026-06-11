@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/1618fd5e-5183-462a-9fae-2fd248650165" /></p>
 <p align="center">MDNI</p>
 <p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION. I SHIP WHAT I WANT.</p>
 
