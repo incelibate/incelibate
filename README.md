@@ -7,7 +7,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/dacc27c2-6a30-438a-bb64-f78b171ef9d8" /></p>
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/46325509-9405-4808-9167-3cb1e27a778b" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/0af26589-94d3-4d0e-b65c-149fba52dcc8" /></p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/077a7114-c785-481f-81c3-b7c5c7179ecd"/></p>
@@ -18,8 +18,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0110e4&bar_color_cover=false">
   </a>
 </p>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/f72d3962-a7a6-464e-a2c9-b8ec8b5b2332" /></p>
 
 
 <img src="https://github.com/user-attachments/assets/8fdbeb34-bb5a-4524-8835-cc627c51f096" width="99" height="56"/>
