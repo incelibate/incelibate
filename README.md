@@ -3,7 +3,7 @@
 
 <p align="center">OFTEN AFK, W2I</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/94c56100-8c51-40c4-8c59-db41cf9da390" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/669b7691-9ce3-4ac5-a0c0-566f59271bc2" width="210" height="160"/></p>
 
 
 
@@ -58,13 +58,13 @@
 <img src="https://github.com/user-attachments/assets/79e05f38-d2d0-4bfc-983e-8e3b7dc7051e" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/014060ae-45f7-4c0e-8a84-76e805eb8f50" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/af787163-466a-40c1-8656-5c0858cc42ef" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/92892090-6590-411a-838f-405bec0e989e" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/eb96b9fe-f5a9-4f49-8c4b-b79a6e819904" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/e77ea3c4-25e0-4bac-be4b-6e1493276b7c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/45b2b635-346b-4a1b-bbe9-57b1ef7c506c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/0452d6f5-dec7-4b40-95bc-1e0b261f7982" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/5e39ade8-ad28-4e84-b283-6056ba5edc3c" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/24bce87b-0284-4357-8b2e-9d156e66425f" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/15acf122-70b4-4cff-9a87-d43ae05a968c" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/c85d8749-3acb-4d45-a7ee-700e54920240" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/f73a3f36-4e88-4e9f-888a-63ce54061f70" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/5142cff6-ab4e-47c1-a392-ced4232ef9dc" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/0b708a41-344e-48b2-86c0-e5ff05cdc2c9" width="99" height="56"/>
