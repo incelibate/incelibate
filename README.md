@@ -19,6 +19,7 @@
   </a>
 </p>
 <p align="center"><img src="https://github.com/user-attachments/assets/f9c6c671-07a1-4d4f-a542-42f9aaed7373" width="99" height="56"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2c4feac6-f69e-43fa-8740-06778f1e2bdb"/></p>
 
 <img src="https://github.com/user-attachments/assets/8fdbeb34-bb5a-4524-8835-cc627c51f096" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/fba30a3f-1bdf-4d1b-9aa4-04346b777917" width="99" height="56"/>
