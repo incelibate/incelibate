@@ -18,7 +18,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0110e4&bar_color_cover=false">
   </a>
 </p>
-
+<p align="center"><img src="https://github.com/user-attachments/assets/f9c6c671-07a1-4d4f-a542-42f9aaed7373" width="99" height="56"/></p>
 
 <img src="https://github.com/user-attachments/assets/8fdbeb34-bb5a-4524-8835-cc627c51f096" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/fba30a3f-1bdf-4d1b-9aa4-04346b777917" width="99" height="56"/>
@@ -33,7 +33,7 @@
 <img src="https://github.com/user-attachments/assets/edc9ae50-7b8d-497d-810f-401eabe2d166" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/5cf5d915-41ca-4098-985d-50ae31ad8bf4" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/adc4058b-9a34-47fa-b61d-80bca860d262" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/f9c6c671-07a1-4d4f-a542-42f9aaed7373" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/f6b5c38f-c69a-487e-8eaf-479b27c765fc" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/1457dd02-0138-4bc0-808f-aca46cc60e11" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/25150001-0ed5-4ba4-9e99-2b8d43d8ebf0" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/3e3ba2c0-c840-41e6-98dd-7f8fcaec30a6" width="99" height="56"/>
