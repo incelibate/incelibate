@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d81f023-411d-4d19-ade9-d807e45412a9" />
+
 <p align="center">MDNI</p>
 <p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION.</p>
 
@@ -10,7 +13,8 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/0af26589-94d3-4d0e-b65c-149fba52dcc8" /></p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/077a7114-c785-481f-81c3-b7c5c7179ecd"/></p>
+<img src="https://github.com/user-attachments/assets/9bc2a7aa-943a-4b4d-8ed8-950bc5a22684"
+/></p>
 
 
 <p align="center">
@@ -35,8 +39,8 @@
 <img src="https://github.com/user-attachments/assets/edc9ae50-7b8d-497d-810f-401eabe2d166" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/5cf5d915-41ca-4098-985d-50ae31ad8bf4" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/adc4058b-9a34-47fa-b61d-80bca860d262" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/f6b5c38f-c69a-487e-8eaf-479b27c765fc" width="99" height="56"/>
-<img src="https://github.com/user-attachments/assets/763861b8-13ff-43ce-a2a0-6608cf331f6f" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/4477af38-a508-4130-89c8-e8ccbc92b0a2" width="99" height="56"/>
+<img src="https://github.com/user-attachments/assets/9e7415bb-f6f6-427e-880f-17e26024fdab" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/25150001-0ed5-4ba4-9e99-2b8d43d8ebf0" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/3e3ba2c0-c840-41e6-98dd-7f8fcaec30a6" width="99" height="56"/>
 <img src="https://github.com/user-attachments/assets/5d3d97cb-dff0-4bc5-84b5-80ddb335393e" width="99" height="56"/>
