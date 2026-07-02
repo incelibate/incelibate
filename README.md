@@ -13,9 +13,7 @@
 
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/9bc2a7aa-943a-4b4d-8ed8-950bc5a22684"
-/></p>
+
 
 
 
