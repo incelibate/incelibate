@@ -6,7 +6,8 @@
 
 <p align="center">OFTEN AFK, W2I</p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/6195fbd3-7c88-4dad-ae66-d52596287c1e" /></p>
+<p align="center"><img width="268" height="227" alt="tumblr_75451aa1fe145946cd0c0fc6fb7cfe69_1d46c37b_400" src="https://github.com/user-attachments/assets/a9f3da4e-005a-47a6-a142-891b0d1ba447" />
+</p>
 
 
 
