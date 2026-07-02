@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d81f023-411d-4d19-ade9-d807e45412a9" />
 
-<p align="center">MDNI</p>
-<p align="center">I DO NOT CARE FOR ONLINE DISCOURSE / PURIFICATION.</p>
-
-<p align="center">OFTEN AFK, W2I</p>
+<p align="center">AFK dont even think of w2i with me i have 20 red dots trained at my forehead and they are ready to fire</p>
 
 <p align="center"><img width="268" height="227" alt="tumblr_75451aa1fe145946cd0c0fc6fb7cfe69_1d46c37b_400" src="https://github.com/user-attachments/assets/a9f3da4e-005a-47a6-a142-891b0d1ba447" />
 </p>
