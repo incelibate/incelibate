@@ -3,6 +3,11 @@
 
 <p align="center">AFK dont even think of w2i with me i have 20 red dots trained at my forehead and they are ready to fire</p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1927f0&bar_color_cover=false">
+  </a>
+</p>
 <p align="center"><img width="268" height="227" alt="tumblr_75451aa1fe145946cd0c0fc6fb7cfe69_1d46c37b_400" src="https://github.com/user-attachments/assets/a9f3da4e-005a-47a6-a142-891b0d1ba447" />
 </p>
 
@@ -13,11 +18,7 @@
 /></p>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1927f0&bar_color_cover=false">
-  </a>
-</p>
+
 <p align="center"><img src="https://github.com/user-attachments/assets/f9c6c671-07a1-4d4f-a542-42f9aaed7373" width="99" height="56"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/2c4feac6-f69e-43fa-8740-06778f1e2bdb"/> <img src="https://github.com/user-attachments/assets/a814efb0-5ee7-4cb7-87d2-f44b11fb6aec"/> <img src="https://github.com/user-attachments/assets/ffa7c50a-13c8-4cdb-a125-eec00d50efa3" />
 </p>
