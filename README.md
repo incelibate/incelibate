@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d81f023-411d-4d19-ade9-d807e45412a9" />
+  <img src="https://github.com/user-attachments/assets/30a9b57f-3ac6-4a72-ac2a-59ba7aa4d2de" />
 
 <p align="center">AFK dont even think of w2i with me i have 20 red dots trained at my forehead and they are ready to fire</p>
 
