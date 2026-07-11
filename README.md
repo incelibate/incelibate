@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30a9b57f-3ac6-4a72-ac2a-59ba7aa4d2de" />
 
-<p align="center">AFK dont even think of w2i with me i have 20 red dots trained at my forehead and they are ready to fire</p>
+<p align="center">AFK dont even think of w2i with me i hate this game</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
