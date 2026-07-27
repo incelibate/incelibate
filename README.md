@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30a9b57f-3ac6-4a72-ac2a-59ba7aa4d2de" />
+  <img src="https://github.com/user-attachments/assets/23ae1cec-599c-4aa0-8649-66509ca371a3" />
 
 <p align="center">AFK dont even think of w2i with me i hate this game</p>
 
