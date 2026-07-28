@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/23ae1cec-599c-4aa0-8649-66509ca371a3" />
 
-<p align="center">18+ only, mdni</p>
+<p align="center">18+ only</p>
 
 
 <p align="center"><img width="220" height="124" alt="zanka-zanka-nijiku" src="https://github.com/user-attachments/assets/9411b373-ea1c-4028-96b5-c98f8fdd6e1e" />
