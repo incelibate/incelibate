@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/ec119c8f-2484-4a34-9263-a8cdbfd843b4" /></p>
+
 <p align="center">if you see @born2derp disfiguring me  dont intervene. im exactly where i want to be.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d3f7011d-9138-49bc-b4ba-cc24f0d9f991" />
