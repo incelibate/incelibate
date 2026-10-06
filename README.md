@@ -10,9 +10,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=econtmsrd418h6wyqbbrnnhr8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0062ff&bar_color_cover=false">
   </a>
 </p>
-<p align="center"><img src="https://github.com/user-attachments/assets/7ede115e-4b8d-4b8b-81bd-759b601fe2e5" width="99" height="56"/> <img src="https://github.com/user-attachments/assets/43b2db1b-9744-4686-9b54-55cc7b2b2863" width="99" height="56"/> <img src="https://github.com/user-attachments/assets/a80120e8-6433-4a3b-b810-c45681b5b41c" width="99" height="56" /> <img src="https://github.com/user-attachments/assets/229535a8-2ae8-4fd6-ae1e-6fd4359fa4d9" width="99" height="56"/>
-</p>
-
 
 
 
