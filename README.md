@@ -1,4 +1,4 @@
-<p align="center">if you see @lmfaocow beating me  dont intervene. im exactly where i want to be.</p>
+<p align="center">if you see @lmfaocow mutilating me  dont intervene. im exactly where i want to be.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d3f7011d-9138-49bc-b4ba-cc24f0d9f991" />
  </p>
