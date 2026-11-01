@@ -10,8 +10,6 @@
 </p>
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e8a39cc7-6a29-420f-b0ee-d230ee1f7a0d" /></p>
-
 
 
 
